@@ -1,0 +1,41 @@
+/* ===== common css start ===== */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul,ol{
+    list-style-type: none;
+    text-transform: capitalize;
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+}
+h1,h2,h3,h4,h5,h6,p{
+    line-height: 0.8;
+}
+html{
+    scroll-behavior: smooth;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+img{
+    display: inline-block;
+}
+.container{
+    width: 1170px;
+    margin: 0 auto;
+}
+.d_flex{
+    display: flex;
+}
+.paragraph{
+    font-weight: var(--weight_light);
+    font-size: var(--pera_size);
+    line-height: var(--pera_height);
+    color: rgba(32, 50, 57, 0.55);
+
+}
+/* ===== common css end ===== */

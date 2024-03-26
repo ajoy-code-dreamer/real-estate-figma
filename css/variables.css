@@ -1,0 +1,27 @@
+:root{
+    /* ===== color var ===== */
+    --text_clr: #203239;
+    --primary_clr: #FF7527;
+    --secondary_clr: #EEEDDE;
+    --white_clr: #fff;
+    --dark_clr: #D6D5C7;
+    --orange_clr: #F6762E;
+    /* ===== color var ===== */
+    /* ===== font family var ===== */
+    --pera_size: 16px;
+    --pera_height: 30px;
+    --text_t_uppercase: uppercase;
+    --text_t_capitalize: capitalize;
+    --text_aling_center: center;
+    /* ===== font family var ===== */
+    /* =====font weight ===== */
+    --weight_light: 300;
+    --weight_regular: 400;
+    --weight_medium: 500;
+    --weight_semibold: 600;
+    --weight_bold: 700;
+    /* =====font weight ===== */
+    --transition: all 0.3s linear;
+    --relative: relative;
+    --absolute: absolute;
+}
